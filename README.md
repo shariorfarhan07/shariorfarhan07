@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am self-motivated, optimistic, and hardworking. Currently, I am a graduate from Brac University in the CSE department. I am always passionate about learning new things. Programming has always been my passion. I have learned and gained a lot of experience by doing various projects. I have a thirst for achievement and participated in multiple competitions.
+I am self-motivated, optimistic, and hardworking. Currently, I am a graduate from Brac University. I am always passionate about learning new things. Programming has always been my passion. I have learned and gained a lot of experience by doing various projects. I have a thirst for achievement and participated in multiple competitions.
 
 
 ## 🛠 Skills
