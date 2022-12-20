@@ -8,7 +8,7 @@ I am self-motivated, optimistic, and hardworking. Currently, I am a graduate fro
 
 ## 🛠 Skills
 Java, Python, C++, PHP, Javascript & Embedded programming with Arduino IDE.  
-HTML, CSS, Bootstarp & Java Script. 
+HTML, CSS, Bootstarp & JavaScript. 
 Numpy & Pandas library.  
 Laravel & Django framework.   
 MySQL database design and implementation.
