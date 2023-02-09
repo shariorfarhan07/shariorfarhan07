@@ -13,7 +13,7 @@ Numpy & Pandas library.
 Springboot, Laravel & Django framework.   
 MySQL database design and implementation.
 Nginx & docker.
-comfortable with both windows and linux.
+Comfortable with both windows and linux.
 
 
 
