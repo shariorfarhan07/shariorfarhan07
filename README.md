@@ -10,8 +10,10 @@ I am self-motivated, optimistic, and hardworking. Currently, I am a graduate fro
 Java, Python, C++, PHP, Javascript & Embedded programming with Arduino IDE.  
 HTML, CSS, Bootstarp & JavaScript. 
 Numpy & Pandas library.  
-Laravel & Django framework.   
+Springboot, Laravel & Django framework.   
 MySQL database design and implementation.
+Nginx & docker.
+comfortable with both windows and linux.
 
 
 
@@ -21,11 +23,11 @@ MySQL database design and implementation.
 - 2nd runners up at project showcasing.it Fest 2019 at KUET-Khulna University of Engineering & Technology, Bangladesh.
 
 ## FAQ's
-👩‍💻 I'm currently working on Django .
+👩‍💻 I'm currently working on Springboot .
 
 🧠 I'm currently learning Web socket.
 
-👯‍♀️ I'm looking to collaborate on django based project.
+👯‍♀️ I'm looking to collaborate on Springboot based project.
 
 🤔 I'm looking for help with Async Python.
 
