@@ -28,8 +28,6 @@ I am self-motivated, optimistic, and hardworking. Currently, I am a graduate fro
 
 👯‍♀️ I'm looking to collaborate on Springboot based project.
 
-🤔 I'm looking for help with Async Python.
-
 💬 Ask me about anything.
 
 📫 How to reach me? mail me at shariorfarhan77@gmail.com.
