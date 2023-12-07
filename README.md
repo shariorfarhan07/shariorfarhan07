@@ -1,9 +1,9 @@
 
-# Hi there welcome to my github! 👋
+# Hi there welcome to my GitHub! 👋
 
 
 ## 🚀 About Me
-I am self-motivated, optimistic, and hardworking. Currently, I am a graduate from Brac University. I am always passionate about learning new things. Programming has always been my passion. I have learned and gained a lot of experience by doing various projects. I have a thirst for achievement and participated in multiple competitions.
+I am self-motivated, optimistic, and hardworking. Currently, I am a graduate of Brac University. I am always passionate about learning new things. Programming has always been my passion. I have learned and gained a lot of experience by doing various projects. I have a thirst for achievement and participated in multiple competitions.
 
 
 ## 🛠 Skills
@@ -16,17 +16,17 @@ I am self-motivated, optimistic, and hardworking. Currently, I am a graduate fro
 
 
 
-## 🏆 Achivement
-- Champion at 2nd  National CanSat Competition 2020, Bangladesh.
+## 🏆 Achievement
+- Champion at   National CanSat Competition 2020, Bangladesh.
 - Champion at project showcasing.Robotronics 2019 at RUET-Rajshahi University of Engineering & Technology, Bangladesh.
-- 2nd runners up at project showcasing.it Fest 2019 at KUET-Khulna University of Engineering & Technology, Bangladesh.
+- 2nd runner-up at project showcasing. it Fest 2019 at KUET-Khulna University of Engineering & Technology, Bangladesh.
 
 ## FAQ's
-👩‍💻 I'm currently working on Springboot .
+👩‍💻 I'm currently working on Springboot.
 
-🧠 I'm currently learning Web socket.
+🧠 I'm currently learning Web Socket.
 
-👯‍♀️ I'm looking to collaborate on Springboot based project.
+👯‍♀️ I'm looking to collaborate on a Springboot project.
 
 💬 Ask me about anything.
 
