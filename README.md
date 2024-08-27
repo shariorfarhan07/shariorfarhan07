@@ -37,6 +37,6 @@ I am self-motivated, optimistic, and hardworking. Currently, I am a graduate of 
 
 ## 🔗 Links
 - [Portfolio](https://shariorfarhan.com/)
-- [Linkedin](https://www.linkedin.com/in/md-sharior-hossain-farhan-952b49193/)
+- [Linkedin]()
 - [Facebook](https://www.facebook.com/shariorfarhan11)
 
