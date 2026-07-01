@@ -1,6 +1,6 @@
 # Md Sharior Hossain Farhan
 
-**Software Engineer** at [bKash](https://www.bkash.com) (via [Exabyting](https://exabyting.com)) — Research & Engineering Team  
+**Software Engineer** at [Exabyting](https://exabyting.com) — Research & Engineering Team  
 Building backend systems for Bangladesh's largest mobile financial platform serving **82 million users**.
 
 ---
