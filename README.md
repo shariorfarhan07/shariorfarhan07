@@ -50,6 +50,15 @@ Monitoring      APM · Log Analysis · Distributed Tracing · Root Cause Analysi
 
 ---
 
+### Competition Highlights
+
+| Year | Competition | Result | Scope |
+|------|------------|--------|-------|
+| 2020 | **National CanSat Competition**, Bangladesh | 🥇 Champion | National — aerospace engineering & embedded systems |
+| 2019 | **Robotronics**, RUET | 🥇 Champion | Inter-university engineering project showcase |
+| 2019 | **Bit Fest**, KUET | 🥉 2nd Runners-Up | Inter-university engineering project showcase |
+
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharior/)
