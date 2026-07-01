@@ -1,42 +1,57 @@
+# Md Sharior Hossain Farhan
 
-# Hi there welcome to my GitHub! 👋
+**Software Engineer** at [bKash](https://www.bkash.com) (via [Exabyting](https://exabyting.com)) — Research & Engineering Team  
+Building backend systems for Bangladesh's largest mobile financial platform serving **82 million users**.
 
+---
 
-## 🚀 About Me
-I am self-motivated, optimistic, and hardworking. Currently, I am a graduate of Brac University. I am always passionate about learning new things. Programming has always been my passion. I have learned and gained a lot of experience by doing various projects. I have a thirst for achievement and participated in multiple competitions.
+### What I Do
 
+I design and optimize high-throughput backend microservices for mission-critical financial systems. My work directly impacts transaction reliability and performance at national scale.
 
-## 🛠 Skills
-- Proficient in multiple programming languages, including Java, Python, PHP, and JavaScript, as well as Embedded programming with the Arduino IDE.
-- Adept in front-end technologies such as HTML, CSS, Bootstrap, and JavaScript.
-- Skilled in data analysis and manipulation using Numpy and Pandas libraries.
-- Experienced in developing applications using Springboot, Laravel, and Django frameworks.
-- Well-versed in MySQL database design and implementation.
-- Familiar with Nginx and Docker, and comfortable working in both Windows and Linux environments.
+- Reduced API latency by **86%** through JVM profiling, query optimization, and caching
+- Achieved **94% performance improvement** and **99% fewer failed jobs** on a batch processing service
+- Led migration of legacy services from Java 7 → Java 17 → Java 21, enabling Spring Boot 3.x adoption
+- Shipped **25+ production REST APIs** across microservices and monolithic SaaS platforms
 
+---
 
+### Tech Stack
 
-## 🏆 Achievement
-- Champion at   National CanSat Competition 2020, Bangladesh.
-- Champion at project showcasing.Robotronics 2019 at RUET-Rajshahi University of Engineering & Technology, Bangladesh.
-- 2nd runner-up at project showcasing. it Fest 2019 at KUET-Khulna University of Engineering & Technology, Bangladesh.
+```
+Languages       Java (primary) · Python · JavaScript · SQL · Bash
+Frameworks      Spring Boot · Spring MVC · WebFlux · FastAPI
+Databases       MySQL · Oracle · MongoDB · DynamoDB · Redis
+Architecture    Microservices · Event-Driven · REST APIs · Producer-Consumer · CQRS
+DevOps          Docker · Jenkins (CI/CD) · Git · Linux
+Monitoring      APM · Log Analysis · Distributed Tracing · Root Cause Analysis · DataDog ·nagios
+```
 
-## FAQ's
-👩‍💻 I'm currently working on Springboot.
+---
 
-🧠 I'm currently learning Web Socket.
+### Featured Projects
 
-👯‍♀️ I'm looking to collaborate on a Springboot project.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Batch Download Service** | Async PDF batch processing with intelligent retry & exponential backoff | Spring Boot, Scheduler, MongoDB |
+| **SSO Auth System** | Enterprise Single Sign-On with centralized identity & RBAC | Spring Boot, Keycloak, OAuth 2.0 |
+| **Support Assist** | Internal dashboard — cut support task time by 40% | Spring Boot, Multi-DB, REST |
+| **Targeted Marketing** | Audience segmentation platform with audit trails | Spring Boot, Hibernate, AOP |
 
-💬 Ask me about anything.
+---
 
-📫 How to reach me? mail me at shariorfarhan77@gmail.com.
+### Currently Focused On
 
-⚡️ Fun fact: I love to travel & fly drones.
+- Distributed systems design & system design interview preparation
+- AWS cloud architecture (Solutions Architect track)
+- Contributing to open source
+- LeetCode — building consistency in DSA problem solving
+- Networking
 
+---
 
-## 🔗 Links
-- [Portfolio](https://shariorfarhan.com/)
-- [Linkedin]()
-- [Facebook](https://www.facebook.com/shariorfarhan11)
+### Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharior/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=safari&logoColor=white)](https://shariorfarhan.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shariorfarhan07@gmail.com)
